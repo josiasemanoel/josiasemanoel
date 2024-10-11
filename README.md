@@ -1,4 +1,4 @@
-Meu nome é Josias Emanoel
+Meu nome é Josias Emanoel.
 nascido em 2009 
 profissão dos sonhos: programador 
 
